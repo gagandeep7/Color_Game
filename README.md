@@ -1,6 +1,6 @@
 # Color_Game
 # RGB Color Game Project
-(https://github.com/gagandeep7/Color_Game/blob/master/game.PNG)
+![working](https://github.com/gagandeep7/Color_Game/blob/master/game.PNG)
 This project was built using the following
 HTML
 SCSS
