@@ -5,6 +5,7 @@ This project was built using the following
 HTML
 CSS
 JavaScript
+
 The game works as follows
 You need to guess the correct box that matches the rgb color to win the game
 
