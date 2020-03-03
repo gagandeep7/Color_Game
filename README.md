@@ -12,3 +12,4 @@ You can choose a mode to play the game
 
 Easy mode which gives you 3 blocks
 Hard mode which gives you 6 blocks
+You can see it live at https://colorgame-4da83.web.app/
